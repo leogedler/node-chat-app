@@ -1,3 +1,3 @@
 #Node Chat App 
 
-- Using Socker.io
+- Using socket.io
